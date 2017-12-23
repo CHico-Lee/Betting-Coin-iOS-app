@@ -8,4 +8,5 @@ Betting Coin Game is about choosing a side of the coin for betting. The user wil
 ## Tools used
 
 Xcode
+
 www.appicon.build to generate app icons
